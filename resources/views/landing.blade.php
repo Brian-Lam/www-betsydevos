@@ -58,7 +58,7 @@
                                         
                     <div class="side-story-wrapper">
                         <a class="story-link" href="/betsy-devos-bronx-science"><h4 class="story-title">Betsy DeVos visit High School Class, Students Learn about Corruption</h4></a>
-                        <div class="story-description">Betsy DeVos dropped by an AP Government class at Bronx Science high school, to teach about corruption and conflicts of interest.</div>
+                        <div class="story-description">Betsy DeVos dropped by an AP Government class at Bronx Science High School, to teach about corruption and conflicts of interest.</div>
                     </div>
                 </div>
             </div>
