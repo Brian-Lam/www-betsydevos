@@ -10,6 +10,7 @@
 		<meta property="og:title" content="The Grizzly Guardian" />
 		<meta property="og:type" content="politician" />
 		<meta property="og:url" content="www.betsydevos.com" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta property="og:image" content="http://www.betsydevos.com/wp-content/uploads/2016/11/bdv.jpg" />
 		<meta property="og:description" content="Betsy DeVos cares. She cares a lot. No one cares like Betsy DeVos." />
         <script>
