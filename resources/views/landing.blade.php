@@ -4,6 +4,14 @@
         <title>The Grizzly Guardian</title>
         <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
         <link href="/assets/css/style.css" rel="stylesheet">
+        
+        <meta name="Description" content="Betsy DeVos is actually a great pick for education secretary, if you ignore facts.">
+		<meta name="Keywords" content="betsy devos grizzly fighter">
+		<meta property="og:title" content="The Grizzly Guardian" />
+		<meta property="og:type" content="politician" />
+		<meta property="og:url" content="www.betsydevos.com" />
+		<meta property="og:image" content="http://www.betsydevos.com/wp-content/uploads/2016/11/bdv.jpg" />
+		<meta property="og:description" content="Betsy DeVos cares. She cares a lot. No one cares like Betsy DeVos." />
     </head>
     <body>
         <div class="content-wrapper">
@@ -39,15 +47,8 @@
                     <hr class="side-story-hr">
                                         
                     <div class="side-story-wrapper">
-                        <a class="story-link" href="/everything-is-fine"><h4 class="story-title">Everything is Just Fine</h4></a>
-                        <div class="story-description">Our public schools are definitely not screwed.</div>
-                    </div>
-
-                    <hr class="side-story-hr">
-                    
-                    <div class="side-story-wrapper">
-                        <a class="story-link" href="/plans"><h4 class="story-title">Betsy DeVos's Extensive Plans</h4></a>
-                        <div class="story-description">She's got it all figured out. Don't worry about it.</div>
+                        <a class="story-link" href="/everything-is-fine"><h4 class="story-title">Betsy DeVos visit High School Class, Students Learn about Corruption</h4></a>
+                        <div class="story-description">Betsy DeVos dropped by an AP Government class at Bronx Science high school, to teach about conflicts of interest.</div>
                     </div>
                 </div>
             </div>
