@@ -1,0 +1,22 @@
+<?php
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application. These
+| routes are loaded by the RouteServiceProvider within a group which
+| contains the "web" middleware group. Now create something great!
+|
+*/
+
+Route::get('/', 'PagesController@landing');
+
+Route::get('/punches-grizzly', 'PagesController@lol');
+Route::get('/accountability', 'PagesController@lol');
+Route::get('/20-shocking-facts', 'PagesController@lol');
+Route::get('/everything-is-fine', 'PagesController@lol');
+Route::get('/plans', 'PagesController@lol');
+
+Route::get('/kidding', 'PagesController@kidding');

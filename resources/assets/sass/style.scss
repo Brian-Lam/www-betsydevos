@@ -1,0 +1,97 @@
+body {
+    font-family: 'Lora', serif;
+}
+.content-wrapper {
+    width: 80%;
+    max-width: 1200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.landing-title {
+    text-align: center;
+    margin-bottom: .4em;
+}
+
+.landing-subtitle {
+    text-align: center;
+    margin-top: .4em;
+}
+
+.stories-wrapper {
+    display: flex;
+    margin-top: 1em;
+}
+
+.stories-main {
+    margin: 3em;
+    flex: 3;
+}
+
+.stories-side {
+    margin: 3em;
+    flex: 2;
+}
+
+.story-image {
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.story-title {
+    margin-top: 0px;
+    font-size: 1.5em;
+    margin-bottom: .5em;
+}
+
+.story-description {
+    margin-top: .5em;
+    font-size: 1.2em;
+}
+
+.time-wrapper {
+    text-align: right;
+    font-size: .9em;
+    color: gray;
+}
+
+footer {
+    text-align: center;
+}
+
+.side-story-wrapper {
+    margin-bottom: 2em;
+}
+
+.side-story-wrapper .story-description {
+    margin-top: .4em;
+}
+
+.story-link {
+    color: black;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.side-story-hr {
+    margin-bottom: 1em;
+    opacity: .2;
+}
+
+.kidding-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  resize: vertical;
+  overflow: auto;
+  height: 95vh;
+}
+
+.kidding-text {
+  resize: vertical;
+  overflow: auto;
+  text-align: center;
+}
