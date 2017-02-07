@@ -12,6 +12,16 @@
 		<meta property="og:url" content="www.betsydevos.com" />
 		<meta property="og:image" content="http://www.betsydevos.com/wp-content/uploads/2016/11/bdv.jpg" />
 		<meta property="og:description" content="Betsy DeVos cares. She cares a lot. No one cares like Betsy DeVos." />
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-54838312-8', 'auto');
+        ga('send', 'pageview');
+
+        </script>
     </head>
     <body>
         <div class="content-wrapper">
@@ -40,15 +50,15 @@
                     <hr class="side-story-hr">
 
                     <div class="side-story-wrapper">
-                        <a class="story-link" href="/accountability"><h4 class="story-title">Betsy DeVos actually supports some pretty cool stuff</h4></a>
-                        <div class="story-description">"I support accountability. I support accountability. I support accountability. I support accountability."</div>
+                        <a class="story-link" href="/proficiency-growth"><h4 class="story-title">Profiency vs. Growth: Her Stance</h4></a>
+                        <div class="story-description">"50% Proficiency, and 50% Growth. But I'm kinda leaning towards growth. You do need proficiency too. But also growth. Hey, is that a grizzly?"</div>
                     </div>
 
                     <hr class="side-story-hr">
                                         
                     <div class="side-story-wrapper">
-                        <a class="story-link" href="/everything-is-fine"><h4 class="story-title">Betsy DeVos visit High School Class, Students Learn about Corruption</h4></a>
-                        <div class="story-description">Betsy DeVos dropped by an AP Government class at Bronx Science high school, to teach about conflicts of interest.</div>
+                        <a class="story-link" href="/betsy-devos-bronx-science"><h4 class="story-title">Betsy DeVos visit High School Class, Students Learn about Corruption</h4></a>
+                        <div class="story-description">Betsy DeVos dropped by an AP Government class at Bronx Science high school, to teach about corruption and conflicts of interest.</div>
                     </div>
                 </div>
             </div>

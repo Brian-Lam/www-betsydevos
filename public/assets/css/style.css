@@ -19,6 +19,9 @@ body {
 .stories-wrapper {
   display: flex;
   margin-top: 1em; }
+  @media (max-width: 600px) {
+    .stories-wrapper {
+      display: block; } }
 
 .stories-main {
   margin: 3em;
@@ -77,5 +80,8 @@ footer {
   resize: vertical;
   overflow: auto;
   text-align: center; }
+
+.kidding-text a {
+  color: gray; }
 
 /*# sourceMappingURL=style.css.map */

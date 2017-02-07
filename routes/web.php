@@ -14,7 +14,7 @@
 Route::get('/', 'PagesController@landing');
 
 Route::get('/punches-grizzly', 'PagesController@lol');
-Route::get('/accountability', 'PagesController@lol');
+Route::get('/proficiency-growth', 'PagesController@lol');
 Route::get('/20-shocking-facts', 'PagesController@lol');
 Route::get('/betsy-devos-bronx-science', 'PagesController@lol');
 
