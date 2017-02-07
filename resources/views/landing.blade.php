@@ -12,7 +12,7 @@
 		<meta property="og:url" content="www.betsydevos.com" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta property="og:image" content="http://www.betsydevos.com/wp-content/uploads/2016/11/bdv.jpg" />
-		<meta property="og:description" content="Betsy DeVos cares. She cares a lot. No one cares like Betsy DeVos." />
+		<meta property="og:description" content="Betsy DeVos cares about education. She cares a lot. No one cares like Betsy DeVos." />
         <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -58,7 +58,7 @@
                     <hr class="side-story-hr">
                                         
                     <div class="side-story-wrapper">
-                        <a class="story-link" href="/betsy-devos-bronx-science"><h4 class="story-title">Betsy DeVos visit High School Class, Students Learn about Corruption</h4></a>
+                        <a class="story-link" href="/betsy-devos-bronx-science"><h4 class="story-title">Betsy DeVos visits High School Class, Students Learn about Corruption</h4></a>
                         <div class="story-description">Betsy DeVos dropped by an AP Government class at Bronx Science High School, to teach about corruption and conflicts of interest.</div>
                     </div>
                 </div>
