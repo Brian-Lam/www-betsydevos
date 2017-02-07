@@ -26,10 +26,16 @@ body {
 .stories-main {
   margin: 3em;
   flex: 3; }
+  @media (max-width: 600px) {
+    .stories-main {
+      margin: 1em; } }
 
 .stories-side {
   margin: 3em;
   flex: 2; }
+  @media (max-width: 600px) {
+    .stories-side {
+      margin: 1em; } }
 
 .story-image {
   width: 100%;
