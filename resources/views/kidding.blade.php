@@ -19,7 +19,9 @@
         <div class="kidding-wrapper">
             <div class="kidding-text">
                 <h1>LOL Just Kidding</h1>
-                <a href="https://www.senate.gov/senators/contact/">Call your local senators.</a>
+                <p>Update: Betsy DeVos may have been confirmed, but this isn't over.<p>
+                <p>We took a few more domains, and we're still figuring out what to do with them.</p>
+                <p>It would be a pity to let them go to waste...</p>
             </div>
         </div>
     </body>
